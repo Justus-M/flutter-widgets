@@ -278,7 +278,7 @@ class _DefaultLocalizations implements SfLocalizations {
   String get noSelectedDateCalendarLabel => 'No selected date';
 
   @override
-  String get noEventsCalendarLabel => 'No events';
+  String get noEventsCalendarLabel => 'No plans';
 
   @override
   String get daySpanCountLabel => 'Day';
